@@ -85,7 +85,9 @@ permalink: /
         href="{{ linkInfo[1].href }}"{% if site.ga %}
         onclick="trackOutboundLink('{{ linkInfo[1].name }}', '{{ linkInfo[1].href }}'); return false;"
         {% endif %}><i class="{{ linkInfo[1].icon }} fa-fw"></i>
-        <span class="d-inline d-sm-none">{{ linkInfo[1].name }}</span></a></div>
+        <span class="d-inline d-sm-none">{{ linkInfo[1].name }}</span></a>
+        {{ linkInfo[1].name }}
+        </div>
 {% endif %}{% endfor %}{% endfor %}
 </div>
 
