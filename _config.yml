@@ -50,7 +50,7 @@ ga:
 # A picture of you, square(!), at least 180x180 pixels, more is better. Recommended file size < 100 KB.
 # Leave empty for generic placeholder image.
 # You can use your GitHub image:
-avatar: "/home/gimoon/Downloads/me"
+avatar: "https://github.com/gmwoo/jpg_me/blob/main/me.jpg"
 #avatar: "images/jonathan_doe.jpg"
 #avatar:
 
