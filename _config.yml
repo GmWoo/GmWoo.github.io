@@ -14,7 +14,7 @@ sass:
 # Main Headline, name required, subtitle optional
 name: Always Be Happy
 #subtitle:
-subtitle: Gimoon-Woo's blog
+subtitle: Gimoon-Woo's Blog
 
 # Title attribute of HTML Page, uses 'name' from above if empty
 title:
@@ -160,7 +160,7 @@ links:
       icon: fas fa-book-open
   - email:
       name: Email
-      show: true
+      show: false
       href: gmwoo@mju.ac.kr
       icon: fas fa-envelope
   - publickey:
