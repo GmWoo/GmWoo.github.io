@@ -12,9 +12,9 @@ sass:
 # When modifying this file, take care to preserve the indentation. This is YAML ...
 
 # Main Headline, name required, subtitle optional
-name: Gimoon Woo
+name: Always Be Happy
 #subtitle:
-subtitle: Frontend Developer
+subtitle: Gimoon-Woo's blog
 
 # Title attribute of HTML Page, uses 'name' from above if empty
 title:
@@ -50,7 +50,7 @@ ga:
 # A picture of you, square(!), at least 180x180 pixels, more is better. Recommended file size < 100 KB.
 # Leave empty for generic placeholder image.
 # You can use your GitHub image:
-avatar: "https://avatars0.githubusercontent.com/u/8897534"
+avatar: "/home/gimoon/Downloads/me"
 #avatar: "images/jonathan_doe.jpg"
 #avatar:
 
@@ -173,7 +173,7 @@ links:
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
 #extra_html:
 extra_html: >
-    Any (multiline) text containing simple HTML,
-    such as links or ... lorem ipsum.
+    DAN Lab. in Myongji Univ.
+    Student of MS Course (2021.03 ~)
 
 #EOF
