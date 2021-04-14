@@ -17,7 +17,7 @@ name: Always Be Happy
 subtitle: Gimoon-Woo's Blog
 
 # Title attribute of HTML Page, uses 'name' from above if empty
-title:
+title: gmwoo' blog
 
 # Information for web crawlers / Google, all of them optional
 # 'description' and 'keywords' simply set the corresponding meta tags,
